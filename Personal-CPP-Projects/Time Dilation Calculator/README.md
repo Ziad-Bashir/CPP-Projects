@@ -33,3 +33,20 @@ To ensure absolute accuracy, the application relies on the foundational equation
 * **The Time Dilation Equation:**
 ```math
 \Delta t' = \frac{\Delta t}{\sqrt{1 - \frac{v^2}{c^2}}}
+
+## ⚙️ Features
+- **User Input:** Prompts the user to enter the Ship Time and Ship Velocity.
+- **Input Scaling:** Automatically formats the velocity magnitude using standard math libraries.
+- **Input Validation:** Ensures the ship's velocity is strictly less than the speed of light ($v < c$) to prevent computational errors and maintain physical accuracy.
+
+## 🛠️ Built With
+- **Language:** C++
+- **Libraries:** `<iostream>`, `<cmath>`
+
+## 🚀 Getting Started
+To compile and run this project locally:
+
+1. Navigate to the project directory.
+2. Compile the code using a C++ compiler:
+   ```bash
+   g++ "Time Dilation Calculator.cpp" -o TimeDilation
