@@ -77,7 +77,7 @@ void PrintInfo(strStudentInfo Info)
     cout << "Student Full Name is: " << Info.FullName << "\n";
     cout << "Student ID is: " << Info.ID << "\n";
     cout << "Student Total Grades is: " << Info.TotalGrades << "\n";
-    cout << "Student Grade is: " << TranslationGrads(Info) << "\n";
+    cout << "Student Grade Status is: " << TranslationGrads(Info) << "\n";
 }
 
 
