@@ -1,5 +1,11 @@
 # 🪨📄✂️ Stone-Paper-Scissors Console Game (C++)
 
+![Status](https://img.shields.io/badge/status-Done-brightgreen)
+![Language](https://img.shields.io/badge/language-C%2B%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+---
+
 A structured C++ console implementation of the classic **Stone-Paper-Scissors** (also known as Rock-Paper-Scissors) game. Built as a **Curriculum Project** based on **Project 1** from Course **`05 - Algorithms & Problem-Solving – Level 2`** on **Programming Advices** by **Dr. Mohammed Abu-Hadhoud**.
 
 ## 🧠 Learning & Re-Implementation Journey
